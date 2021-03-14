@@ -1,4 +1,4 @@
-# Projeto `StopWatch`
+# Projeto `TextEditor`
 
 # Sobre o projeto
 
